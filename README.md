@@ -66,3 +66,15 @@
 - Sistema Embarcados
 - Linguagem, Trabalho e Tecnologia
 - Desenvolvimento do TCC
+
+<img src="https://cursos.ensinavirtualead.com.br/wp-content/uploads/2021/05/logo.png" width="200px">
+
+## VIA ONLINE
+1. <h3> Informática: </h3>
+
+- Windows 10
+- Word 2016
+- Powerpoint 2016
+- Excel 2016
+- Internet
+- INTER ENGLISH - Modulo 1
