@@ -59,7 +59,7 @@
 <h3> MODULO 3 </h3>
 
 - Técnicas de Manutenção de Computadores
-- Gestçao de Sistema Operacionais III
+- Gestão de Sistema Operacionais III
 - Ética e Cidadania Organizacional
 - Segurança da Informação
 - Governança de TI
